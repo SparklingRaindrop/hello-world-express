@@ -1,1 +1,1 @@
-release: npx cowsay Procfile är ju easy peasy!
+release: npx cowsay -T Procfile är ju easy peasy!
